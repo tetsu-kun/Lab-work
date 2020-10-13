@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\tetsu\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(126): warning C4715: load_from_fileT: значение возвращается не при всех путях выполнения
+C:\Users\tetsu\source\repos\ConsoleApplication4\ConsoleApplication4.cpp(140): warning C4715: load_from_fileC: значение возвращается не при всех путях выполнения
+  ConsoleApplication4.vcxproj -> C:\Users\tetsu\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
